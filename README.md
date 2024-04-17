@@ -1,1 +1,2 @@
-# Customer-Analytics-Segmentation-
+# Customer-Analytics-Segmentation
+Customer segmentation is the process of dividing a customer base into groups based on shared characteristics, behaviors, or preferences. Customer segmentation is popular because it helps you identify new products and services to create next, as well as how to market and sell existing offerings more effectively. This is because you can develop a better understanding of your customers needs and desires. customer segmentation analysis should look at industry-wide data on the marketplace, and then dig deeper and look at data on your own customer population.
